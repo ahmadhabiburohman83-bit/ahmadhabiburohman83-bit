@@ -18,6 +18,9 @@
   <rect x="24" y="14" width="952" height="222" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
   <rect x="24" y="14" width="952" height="34" rx="12" fill="#21262d"/>
   <rect x="24" y="32" width="952" height="16" fill="#21262d"/>
+  <circle cx="50" cy="31" r="6" fill="#ff5f57"/>
+  <circle cx="68" cy="31" r="6" fill="#febc2e"/>
+  <circle cx="86" cy="31" r="6" fill="#28c840"/>
   <text x="500" y="38" text-anchor="middle" font-family="Menlo,Consolas,'Fira Code',monospace" font-size="13" fill="#8b949e">ahmadhabiburrahman - 83-bit - 90x24</text>
 
   <g font-family="Menlo,Consolas,'Fira Code',monospace">
