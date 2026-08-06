@@ -1,84 +1,79 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:00599C&height=200&section=header&text=Ahmad%20Habiburrahman&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
+
 <div align="center">
 
-  <!-- Dynamic Typing Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmad+Habiburrahman;Full-Stack+Web+Developer+%F0%9F%8F%8F;Building+Bots+%26+Web+Apps;Exploring+Go+%26+Rust" alt="Typing SVG" />
-  </a>
+  <p><b>Full-Stack Web Developer based in Indonesia 🇮🇩</b></p>
 
-  <p align="center">
-    <b>Full-Stack Web Developer based in Indonesia 🇮🇩</b>
-  </p>
-
-  <!-- Quick Social Badges -->
   <a href="https://instagram.com/nopartyx_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://github.com/ahmadhabiburohman83-bit">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-</div>
-
-<br />
-
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmadhabiburohman83-bit&theme=onedark&margin-w=15&row=1" alt="Ahmad's GitHub Trophies" />
 </div>
 
 ---
 
 ### ⚡ About Me
 
-```yaml
-identity:
-  name: Ahmad Habiburrahman
-  role: Full-Stack Web Developer & Student
-  location: Indonesia 🌏
-current_focus:
-  building: "AI/Automation Bot (Code & Push to GitHub) 🤖"
-  learning: "CI/CD Pipelines (GitHub Actions) 🚀"
-  next_languages: ["Go", "Rust"]
-fun_fact: "I built a functional Pacman arcade game in Scratch! 🕹️"
-```
+* 🎓 **Role:** Student & Full-Stack Web Developer
+* 🤖 **Building:** Automated coding bot (generates code & pushes directly to GitHub)
+* 🚀 **Learning:** CI/CD pipelines with GitHub Actions
+* 🔮 **Next Up:** Exploring **Go** and **Rust**
+* 🕹️ **Fun Fact:** Built a functional Pacman arcade game in Scratch!
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-| Category | Technologies |
-| --- | --- |
-| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
-| **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Backend & DB** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Exploring** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
+**Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Frontend & Backend**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Exploring**  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
-### 🚀 Featured Repositories
+### 🚀 Featured Projects
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| 🔗 [Integrasi Angular + Spring Boot](https://github.com/ahmadhabiburohman83-bit/Integrasi-Angular-Spring-Boot) | Full-stack application connecting Angular frontend with Spring Boot backend. | `Angular` `Spring Boot` |
-| 🤖 **GitHub Coding Bot** *(In Progress)* | Automated bot that generates code and pushes directly to GitHub. | `TypeScript` `CI/CD` |
-| 🎮 **Scratch Pacman** | Recreation of the classic Pacman arcade game logic. | `Scratch` `Game Logic` |
+* 🔗 **[Integrasi Angular + Spring Boot](https://github.com/ahmadhabiburohman83-bit/Integrasi-Angular-Spring-Boot)**  
+  Full-stack web application connecting Angular frontend with Spring Boot backend REST APIs.
+
+* 🤖 **GitHub Coding Bot** *(In Progress)*  
+  An experimental automation bot designed to generate code and push commits directly via CI/CD pipelines.
+
+* 🕹️ **Scratch Pacman**  
+  Classic Pacman game logic recreated from scratch to build foundational algorithm principles.
 
 <details>
-<summary><b>📱 Angular Practicum Series</b></summary>
+<summary>📚 <b>Klik untuk membuka Seri Praktikum & Web Projects</b></summary>
 
+<br>
+
+**Angular Practicum Series**
 * 🔗 [Component Communication](https://github.com/ahmadhabiburohman83-bit/Praktikum_Angular_Component_Communication.)
 * 🔗 [Services + RxJS](https://github.com/ahmadhabiburohman83-bit/Praktikum_Angular_Services_RxJS.)
 * 🔗 [HTTP Client + RxJS](https://github.com/ahmadhabiburohman83-bit/Modul_Praktikum_Angular_HTTP_Client_RxJS)
 * 🔗 [Forms + RxJS Integration](https://github.com/ahmadhabiburohman83-bit/Praktikum_Angular_Forms_RxJS_Integration)
 * 🔗 [Routing + RxJS Lanjutan](https://github.com/ahmadhabiburohman83-bit/Modul_Angular_Routing_RxJS_Lanjutan)
 
-</details>
-
-<details>
-<summary><b>🎨 Web Projects</b></summary>
-
+**Web Projects**
 * 🔗 [my-website](https://github.com/ahmadhabiburohman83-bit/my-website) — Personal portfolio
-* 🔗 [website_K3](https://github.com/ahmadhabiburohman83-bit/website_K3) — Occupational health and safety site
+* 🔗 [website_K3](https://github.com/ahmadhabiburohman83-bit/website_K3) — Occupational safety site
 * 🔗 [finalwebk3kelompok_6](https://github.com/ahmadhabiburohman83-bit/finalwebk3kelompok_6) — Group project showcase
 
 </details>
@@ -89,10 +84,11 @@ fun_fact: "I built a functional Pacman arcade game in Scratch! 🕹️"
 
 <div align="center">
 
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadhabiburohman83-bit&show_icons=true&theme=onedark)
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadhabiburohman83-bit&show_icons=true&theme=tokyonight&border_radius=8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhabiburohman83-bit&layout=compact&theme=tokyonight&border_radius=8" width="48%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhabiburohman83-bit&layout=compact&theme=onedark)
+  <br><br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmadhabiburohman83-bit&theme=onedark)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadhabiburohman83-bit&theme=tokyonight&border_radius=8" width="97%" />
 
 </div>
