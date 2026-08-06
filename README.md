@@ -1,4 +1,4 @@
-<img src="https://github-animatedbanner.vercel.app/api/banner.svg?type=waving&preset=ocean&text=Ahmad%20Habiburrahman&desc=Student%20%26%20Full-Stack%20Web%20Developer&v=1" width="100%" alt="Header" />
+<img src="header.svg" width="100%" alt="Header" />
 
 <div align="center">
 
