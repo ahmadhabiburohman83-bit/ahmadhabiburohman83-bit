@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <p><b>Full-Stack Web Developer based in Indonesia 🇮🇩</b></p>
+  <p><b>Full-Stack Web Developer based in Indonesia</b></p>
 
   <a href="https://instagram.com/nopartyx_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -15,72 +15,68 @@
 
 ---
 
-### ⚡ About Me
+### About Me
 
-* 🎓 **Role:** Student & Full-Stack Web Developer
-* 🤖 **Building:** Automated coding bot (generates code & pushes directly to GitHub)
-* 🚀 **Learning:** CI/CD pipelines with GitHub Actions
-* 🔮 **Next Up:** Exploring **Go** and **Rust**
-* 🕹️ **Fun Fact:** Built a functional Pacman arcade game in Scratch!
+* **Role:** Student & Full-Stack Web Developer
+* **Building:** Automated coding bot that generates code and pushes directly to GitHub
+* **Learning:** CI/CD pipelines with GitHub Actions
+* **Next Up:** Exploring Go and Rust
+* **Fun Fact:** Built a functional Pacman arcade game in Scratch
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack
 
-**Languages**  
+**Languages**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Frontend & Backend**  
+**Frontend & Backend**
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Exploring**  
+**Exploring**
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-* 🔗 **[Integrasi Angular + Spring Boot](https://github.com/ahmadhabiburohman83-bit/Integrasi-Angular-Spring-Boot)**  
-  Full-stack web application connecting Angular frontend with Spring Boot backend REST APIs.
-
-* 🤖 **GitHub Coding Bot** *(In Progress)*  
-  An experimental automation bot designed to generate code and push commits directly via CI/CD pipelines.
-
-* 🕹️ **Scratch Pacman**  
-  Classic Pacman game logic recreated from scratch to build foundational algorithm principles.
+* **[Integrasi Angular + Spring Boot](https://github.com/ahmadhabiburohman83-bit/Integrasi-Angular-Spring-Boot)** — Full-stack web application connecting Angular frontend with Spring Boot backend REST APIs.
+* **GitHub Coding Bot** *(In Progress)* — An experimental automation bot designed to generate code and push commits directly via CI/CD pipelines.
+* **Scratch Pacman** — Classic Pacman game logic recreated in Scratch to build foundational algorithm principles.
 
 <details>
-<summary>📚 <b>Klik untuk membuka Seri Praktikum & Web Projects</b></summary>
-
-<br>
+<summary>Practicum Series & Web Projects</summary>
 
 **Angular Practicum Series**
-* 🔗 [Component Communication](https://github.com/ahmadhabiburohman83-bit/Praktikum_Angular_Component_Communication.)
-* 🔗 [Services + RxJS](https://github.com/ahmadhabiburohman83-bit/Praktikum_Angular_Services_RxJS.)
-* 🔗 [HTTP Client + RxJS](https://github.com/ahmadhabiburohman83-bit/Modul_Praktikum_Angular_HTTP_Client_RxJS)
-* 🔗 [Forms + RxJS Integration](https://github.com/ahmadhabiburohman83-bit/Praktikum_Angular_Forms_RxJS_Integration)
-* 🔗 [Routing + RxJS Lanjutan](https://github.com/ahmadhabiburohman83-bit/Modul_Angular_Routing_RxJS_Lanjutan)
+* [Component Communication](https://github.com/ahmadhabiburohman83-bit/Praktikum_Angular_Component_Communication.)
+* [Services + RxJS](https://github.com/ahmadhabiburohman83-bit/Praktikum_Angular_Services_RxJS.)
+* [HTTP Client + RxJS](https://github.com/ahmadhabiburohman83-bit/Modul_Praktikum_Angular_HTTP_Client_RxJS)
+* [Forms + RxJS Integration](https://github.com/ahmadhabiburohman83-bit/Praktikum_Angular_Forms_RxJS_Integration)
+* [Routing + RxJS Lanjutan](https://github.com/ahmadhabiburohman83-bit/Modul_Angular_Routing_RxJS_Lanjutan)
 
 **Web Projects**
-* 🔗 [my-website](https://github.com/ahmadhabiburohman83-bit/my-website) — Personal portfolio
-* 🔗 [website_K3](https://github.com/ahmadhabiburohman83-bit/website_K3) — Occupational safety site
-* 🔗 [finalwebk3kelompok_6](https://github.com/ahmadhabiburohman83-bit/finalwebk3kelompok_6) — Group project showcase
+* [my-website](https://github.com/ahmadhabiburohman83-bit/my-website) — Personal portfolio
+* [website_K3](https://github.com/ahmadhabiburohman83-bit/website_K3) — Occupational safety site
+* [finalwebk3kelompok_6](https://github.com/ahmadhabiburohman83-bit/finalwebk3kelompok_6) — Group project showcase
 
 </details>
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
 
