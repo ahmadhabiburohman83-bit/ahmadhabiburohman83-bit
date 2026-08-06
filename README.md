@@ -59,7 +59,7 @@
 ### Experience
 
 * **Pantara Dev — Web Developer**
-  Building web applications with **Angular + Spring Boot + PostgreSQL**, with a focus on application security and testing.
+  Building web applications with **Astro + Tailwind CSS**, deployed on **Vercel**, with a focus on application security and testing.
 
 ---
 
