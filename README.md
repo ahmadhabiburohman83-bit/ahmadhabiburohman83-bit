@@ -23,9 +23,13 @@
 ### About Me
 
 **Role:** Student & Full-Stack Web Developer
+
 **Building:** An automation bot that writes code and pushes commits via CI/CD
+
 **Learning:** CI/CD pipelines with GitHub Actions
+
 **Next Up:** Exploring Go and Rust
+
 **Fun Fact:** Built a working Pacman clone in Scratch
 
 ---
