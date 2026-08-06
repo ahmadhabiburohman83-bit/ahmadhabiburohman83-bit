@@ -64,7 +64,6 @@
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claudecode&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-1A73E8?style=flat-square&logo=googlegemini&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![CodeGraph](https://img.shields.io/badge/CodeGraph-0EA5E9?style=flat-square&logoColor=white)
 
 ---
 
