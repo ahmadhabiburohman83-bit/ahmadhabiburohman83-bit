@@ -67,6 +67,7 @@
 
 * **[Integrasi Angular + Spring Boot](https://github.com/ahmadhabiburohman83-bit/Integrasi-Angular-Spring-Boot)** — Full-stack app connecting an Angular frontend to a Spring Boot REST API backend.
 * **GitHub Coding Bot** *(In Progress)* — Automation experiment that generates code changes and pushes them straight to GitHub through a CI/CD pipeline.
+* **Scratch Pacman** — Classic Pacman game logic recreated in Scratch to build foundational algorithm principles.
 
 <details>
 <summary><b>More projects — practicum series & coursework</b></summary>
