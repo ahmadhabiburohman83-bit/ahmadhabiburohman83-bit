@@ -54,6 +54,14 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
+**AI Agents & Tools**
+
+![9Router](https://img.shields.io/badge/9Router-1B1F24?style=flat-square&logo=openaigym&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-181717?style=flat-square&logo=github&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes-8B5CF6?style=flat-square&logo=robotframework&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-10B981?style=flat-square&logo=robotframework&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-3B82F6?style=flat-square&logo=openai&logoColor=white)
+
 ---
 
 ### Experience
