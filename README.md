@@ -54,6 +54,14 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
+**AI Models**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-1A73E8?style=flat-square&logo=googlegemini&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-5786FE?style=flat-square&logo=deepseek&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-6950EF?style=flat-square&logo=qwen&logoColor=white)
+![GLM](https://img.shields.io/badge/GLM-0084FF?style=flat-square&logoColor=white)
+
 **AI Agents & Tools**
 
 ![9Router](https://img.shields.io/badge/9Router-1B1F24?style=flat-square&logoColor=white)
@@ -62,11 +70,22 @@
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logoColor=white)
 ![Hermes](https://img.shields.io/badge/Hermes-7C3AED?style=flat-square&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claudecode&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-1A73E8?style=flat-square&logo=googlegemini&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-5786FE?style=flat-square&logo=deepseek&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen-6950EF?style=flat-square&logo=qwen&logoColor=white)
-![GLM](https://img.shields.io/badge/GLM-0084FF?style=flat-square&logoColor=white)
+
+**Dev Tools**
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub CLI](https://img.shields.io/badge/GitHub_CLI-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=flat-square&logo=bruno&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white)
+![Angular CLI](https://img.shields.io/badge/Angular_CLI-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
