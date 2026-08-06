@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <p><b>Full-Stack Web Developer based in Indonesia</b></p>
+  <p><b>Student & Full-Stack Web Developer</b> — building web apps with Angular + Spring Boot 🇮🇩</p>
 
   <a href="https://instagram.com/nopartyx_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -10,6 +10,11 @@
   <a href="https://github.com/ahmadhabiburohman83-bit">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <!-- Hapus komentar ini dan isi link LinkedIn/portfolio kamu kalau sudah ada:
+  <a href="https://www.linkedin.com/in/username">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  -->
 
 </div>
 
@@ -18,10 +23,10 @@
 ### About Me
 
 * **Role:** Student & Full-Stack Web Developer
-* **Building:** Automated coding bot that generates code and pushes directly to GitHub
+* **Building:** An automation bot that writes code and pushes commits via CI/CD
 * **Learning:** CI/CD pipelines with GitHub Actions
 * **Next Up:** Exploring Go and Rust
-* **Fun Fact:** Built a functional Pacman arcade game in Scratch
+* **Fun Fact:** Built a working Pacman clone in Scratch
 
 ---
 
@@ -51,14 +56,21 @@
 
 ---
 
+### Experience
+
+* **Pantara Dev — Web Developer**
+  Building web applications with **Angular + Spring Boot + PostgreSQL**, with a focus on application security and testing.
+
+---
+
 ### Featured Projects
 
-* **[Integrasi Angular + Spring Boot](https://github.com/ahmadhabiburohman83-bit/Integrasi-Angular-Spring-Boot)** — Full-stack web application connecting Angular frontend with Spring Boot backend REST APIs.
-* **GitHub Coding Bot** *(In Progress)* — An experimental automation bot designed to generate code and push commits directly via CI/CD pipelines.
-* **Scratch Pacman** — Classic Pacman game logic recreated in Scratch to build foundational algorithm principles.
+* **[Integrasi Angular + Spring Boot](https://github.com/ahmadhabiburohman83-bit/Integrasi-Angular-Spring-Boot)** — Full-stack app connecting an Angular frontend to a Spring Boot REST API backend.
+* **GitHub Coding Bot** *(In Progress)* — Automation experiment that generates code changes and pushes them straight to GitHub through a CI/CD pipeline.
 
 <details>
-<summary>Practicum Series & Web Projects</summary>
+<summary><b>More projects — practicum series & coursework</b></summary>
+<br>
 
 **Angular Practicum Series**
 * [Component Communication](https://github.com/ahmadhabiburohman83-bit/Praktikum_Angular_Component_Communication.)
@@ -68,9 +80,9 @@
 * [Routing + RxJS Lanjutan](https://github.com/ahmadhabiburohman83-bit/Modul_Angular_Routing_RxJS_Lanjutan)
 
 **Web Projects**
-* [my-website](https://github.com/ahmadhabiburohman83-bit/my-website) — Personal portfolio
-* [website_K3](https://github.com/ahmadhabiburohman83-bit/website_K3) — Occupational safety site
-* [finalwebk3kelompok_6](https://github.com/ahmadhabiburohman83-bit/finalwebk3kelompok_6) — Group project showcase
+* [my-website](https://github.com/ahmadhabiburohman83-bit/my-website) — Personal portfolio site
+* [website_K3](https://github.com/ahmadhabiburohman83-bit/website_K3) — Occupational safety (K3) coursework site
+* [finalwebk3kelompok_6](https://github.com/ahmadhabiburohman83-bit/finalwebk3kelompok_6) — Group capstone for the same K3 course
 
 </details>
 
