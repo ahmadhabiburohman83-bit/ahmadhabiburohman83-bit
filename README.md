@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:00599C&height=200&section=header&text=Ahmad%20Habiburrahman&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://github-animatedbanner.vercel.app/api/banner.svg?type=waving&preset=ocean&text=Ahmad%20Habiburrahman&desc=Student%20%26%20Full-Stack%20Web%20Developer&v=1" width="100%" alt="Header" />
 
 <div align="center">
 
@@ -52,7 +52,7 @@
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **AI Models**
 
@@ -79,7 +79,7 @@
 
 **Dev Tools**
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=vscodium&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub CLI](https://img.shields.io/badge/GitHub_CLI-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
