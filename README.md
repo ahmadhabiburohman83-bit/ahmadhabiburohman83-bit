@@ -58,6 +58,7 @@
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-1A73E8?style=flat-square&logo=googlegemini&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-5786FE?style=flat-square&logo=deepseek&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-6950EF?style=flat-square&logo=qwen&logoColor=white)
 ![GLM](https://img.shields.io/badge/GLM-0084FF?style=flat-square&logoColor=white)
@@ -66,6 +67,7 @@
 
 ![9Router](https://img.shields.io/badge/9Router-1B1F24?style=flat-square&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-18181B?style=flat-square&logo=opencode&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-E11D48?style=flat-square&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logoColor=white)
 ![Hermes](https://img.shields.io/badge/Hermes-7C3AED?style=flat-square&logoColor=white)
