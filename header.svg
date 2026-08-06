@@ -1,12 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="100%" role="img" aria-label="Ahmad Habiburrahman - Student &amp; Full-Stack Web Developer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="100%" role="img" aria-label="Ahmad Habiburrahman - Student &amp; Full-Stack Web Developer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0d1117"/>
       <stop offset="1" stop-color="#121923"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#58a6ff"/>
-      <stop offset="1" stop-color="#3fb950"/>
     </linearGradient>
     <style>
       @keyframes blink {
@@ -17,59 +13,28 @@
     </style>
   </defs>
 
-  <rect width="1000" height="260" fill="url(#bg)"/>
-  <rect x="28" y="22" width="6" height="214" fill="url(#accent)"/>
+  <rect width="1000" height="250" fill="url(#bg)"/>
+
+  <rect x="24" y="14" width="952" height="222" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="24" y="14" width="952" height="34" rx="12" fill="#21262d"/>
+  <rect x="24" y="32" width="952" height="16" fill="#21262d"/>
+  <text x="500" y="38" text-anchor="middle" font-family="Menlo,Consolas,'Fira Code',monospace" font-size="13" fill="#8b949e">ahmadhabiburrahman - zsh - 90x24</text>
 
   <g font-family="Menlo,Consolas,'Fira Code',monospace">
-    <text x="64" y="64" font-size="15" fill="#8b949e" font-style="italic">// ahmadhabiburrahman - student &amp; full-stack web developer</text>
+    <text x="50" y="72" font-size="16" fill="#3fb950">$</text>
+    <text x="74" y="72" font-size="16" fill="#e6edf3">whoami</text>
 
-    <text x="64" y="96" font-size="16">
-      <tspan fill="#ff7b72">const </tspan>
-      <tspan fill="#79c0ff">developer</tspan>
-      <tspan fill="#e6edf3"> = {</tspan>
-    </text>
+    <text x="50" y="104" font-size="22" font-weight="bold" fill="#79c0ff">Ahmad Habiburrahman</text>
 
-    <text x="64" y="126" font-size="16">
-      <tspan fill="#e6edf3">  </tspan>
-      <tspan fill="#79c0ff">name</tspan>
-      <tspan fill="#e6edf3">: </tspan>
-      <tspan fill="#ffa657" font-size="18" font-weight="bold">"Ahmad Habiburrahman"</tspan>
-      <tspan fill="#e6edf3">,</tspan>
-    </text>
+    <text x="50" y="136" font-size="16" fill="#3fb950">$</text>
+    <text x="74" y="136" font-size="16" fill="#e6edf3">npm run career</text>
 
-    <text x="64" y="156" font-size="16">
-      <tspan fill="#e6edf3">  </tspan>
-      <tspan fill="#79c0ff">role</tspan>
-      <tspan fill="#e6edf3">: </tspan>
-      <tspan fill="#a5d6ff">"Student &amp; Full-Stack Web Developer"</tspan>
-      <tspan fill="#e6edf3">,</tspan>
-    </text>
+    <text x="50" y="168" font-size="16" fill="#7ee787">Student &amp; Full-Stack Web Developer</text>
 
-    <text x="64" y="186" font-size="16">
-      <tspan fill="#e6edf3">  </tspan>
-      <tspan fill="#79c0ff">stack</tspan>
-      <tspan fill="#e6edf3">: [</tspan>
-      <tspan fill="#a5d6ff">"Angular"</tspan>
-      <tspan fill="#e6edf3">, </tspan>
-      <tspan fill="#a5d6ff">"Spring Boot"</tspan>
-      <tspan fill="#e6edf3">, </tspan>
-      <tspan fill="#a5d6ff">"PostgreSQL"</tspan>
-      <tspan fill="#e6edf3">],</tspan>
-    </text>
+    <text x="50" y="200" font-size="16" fill="#3fb950">$</text>
+    <text x="74" y="200" font-size="16" fill="#e6edf3">npx stack</text>
 
-    <text x="64" y="216" font-size="16">
-      <tspan fill="#e6edf3">  </tspan>
-      <tspan fill="#79c0ff">learning</tspan>
-      <tspan fill="#e6edf3">: [</tspan>
-      <tspan fill="#a5d6ff">"Go"</tspan>
-      <tspan fill="#e6edf3">, </tspan>
-      <tspan fill="#a5d6ff">"Rust"</tspan>
-      <tspan fill="#e6edf3">]</tspan>
-    </text>
-
-    <text x="64" y="246" font-size="16">
-      <tspan fill="#e6edf3">};</tspan>
-    </text>
-    <rect class="cursor" x="104" y="232" width="10" height="18" fill="#e6edf3"/>
+    <text x="50" y="224" font-size="16" fill="#ffa657">Angular + Spring Boot + PostgreSQL</text>
+    <rect class="cursor" x="352" y="210" width="10" height="18" fill="#e6edf3"/>
   </g>
 </svg>
