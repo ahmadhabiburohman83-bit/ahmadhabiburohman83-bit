@@ -56,11 +56,15 @@
 
 **AI Agents & Tools**
 
-![9Router](https://img.shields.io/badge/9Router-1B1F24?style=flat-square&logo=openaigym&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-181717?style=flat-square&logo=github&logoColor=white)
-![Hermes](https://img.shields.io/badge/Hermes-8B5CF6?style=flat-square&logo=robotframework&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-10B981?style=flat-square&logo=robotframework&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-3B82F6?style=flat-square&logo=openai&logoColor=white)
+![9Router](https://img.shields.io/badge/9Router-1B1F24?style=flat-square&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-18181B?style=flat-square&logo=opencode&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-E11D48?style=flat-square&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes-7C3AED?style=flat-square&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claudecode&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-1A73E8?style=flat-square&logo=googlegemini&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![CodeGraph](https://img.shields.io/badge/CodeGraph-0EA5E9?style=flat-square&logoColor=white)
 
 ---
 
