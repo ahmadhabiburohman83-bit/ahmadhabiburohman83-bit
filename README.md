@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <p><b>Student & Full-Stack Web Developer</b> — building web apps with Angular + Spring Boot 🇮🇩</p>
+  <p><b>Student & Full-Stack Web Developer</b> — building web apps with Angular + Spring Boot</p>
 
   <a href="https://instagram.com/nopartyx_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
