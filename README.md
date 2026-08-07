@@ -54,10 +54,7 @@
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,nodejs,vercel&theme=dark" alt="Dev Tools" />
 
-<img src="icons/Bruno.svg" alt="Bruno" width="48" height="48" />
-<img src="icons/Insomnia.svg" alt="Insomnia" width="48" height="48" />
-<img src="icons/uv.svg" alt="uv" width="48" height="48" />
-<img src="icons/AngularCLI.svg" alt="Angular CLI" width="48" height="48" />
+<img src="icons/devtools.svg" alt="Dev Tools" width="192" height="48" />
 
 **AI Models**
 
