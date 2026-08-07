@@ -40,25 +40,21 @@
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,ts,js,py,cpp&theme=dark" alt="Languages" />
+</p>
 
 **Frontend & Backend**
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,spring,postgres,mysql&theme=dark" alt="Frontend & Backend" />
+</p>
 
 **Exploring**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,rust,githubactions&theme=dark" alt="Exploring" />
+</p>
 
 **AI Models**
 
@@ -68,6 +64,8 @@
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-5786FE?style=flat-square&logo=deepseek&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-6950EF?style=flat-square&logo=qwen&logoColor=white)
 ![GLM](https://img.shields.io/badge/GLM-0084FF?style=flat-square&logo=zdotai&logoColor=white)
+![Kimi](https://img.shields.io/badge/Kimi-6100FF?style=flat-square&logo=kimi&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=flat-square&logoColor=white)
 
 **AI Agents & Tools**
 
@@ -82,20 +80,20 @@
 ![Hermes](https://img.shields.io/badge/%E2%98%A4_Hermes-7C3AED?style=flat-square&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claudecode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![OmniRouter](https://img.shields.io/badge/OmniRouter-0B1B2B?style=flat-square&logoColor=white)
 
 **Dev Tools**
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=vscodium&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub CLI](https://img.shields.io/badge/GitHub_CLI-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,nodejs,vercel&theme=dark" alt="Dev Tools" />
+</p>
+
+<p align="center">
 ![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=flat-square&logo=bruno&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white)
 ![Angular CLI](https://img.shields.io/badge/Angular_CLI-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+</p>
 
 ---
 
