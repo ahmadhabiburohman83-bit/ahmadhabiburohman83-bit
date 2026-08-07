@@ -24,7 +24,9 @@
 
 **Role:** Student at **Polinema PSDKU Lumajang** & Full-Stack Web Developer
 
-**Building:** [PSDKU-WEB](https://github.com/Pantara-Dev/PSDKU-WEB) — the academic portal & information system of Polinema PSDKU Lumajang, plus [GitHub Coding Bot](https://github.com/ahmadhabiburohman83-bit) *(In Progress)* — an automation experiment that generates code changes and pushes them straight to GitHub through a CI/CD pipeline.
+**Building:** [GitHub Coding Bot](https://github.com/ahmadhabiburohman83-bit) *(In Progress)* — an automation experiment that generates code changes and pushes them straight to GitHub through a CI/CD pipeline.
+
+**Contributing:** [PSDKU-WEB](https://github.com/Pantara-Dev/PSDKU-WEB) — part contributor to the academic portal & information system of Polinema PSDKU Lumajang.
 
 **Learning:** CI/CD pipelines with GitHub Actions
 
