@@ -1,8 +1,8 @@
-<img src="header.svg" width="100%" alt="Header" />
+﻿<img src="header.svg" width="100%" alt="Header" />
 
 <div align="center">
 
-  <p><b>Student & Full-Stack Web Developer</b> — building web apps with Angular + Spring Boot</p>
+  <p><b>Student & Full-Stack Web Developer</b> â€” building web apps with Angular + Spring Boot</p>
 
   <a href="https://instagram.com/nopartyx_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -24,9 +24,9 @@
 
 **Role:** Student at **Polinema PSDKU Lumajang** & Full-Stack Web Developer
 
-**Building:** [GitHub Coding Bot](https://github.com/ahmadhabiburohman83-bit) *(In Progress)* — an automation experiment that generates code changes and pushes them straight to GitHub through a CI/CD pipeline.
+**Building:** [GitHub Coding Bot](https://github.com/ahmadhabiburohman83-bit) *(In Progress)* â€” an automation experiment that generates code changes and pushes them straight to GitHub through a CI/CD pipeline.
 
-**Contributing:** [PSDKU-WEB](https://github.com/Pantara-Dev/PSDKU-WEB) — part contributor to the academic portal & information system of Polinema PSDKU Lumajang.
+**Contributing:** [PSDKU-WEB](https://github.com/Pantara-Dev/PSDKU-WEB) â€” part contributor to the academic portal & information system of Polinema PSDKU Lumajang.
 
 **Learning:** CI/CD pipelines with GitHub Actions
 
@@ -54,10 +54,10 @@
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,nodejs,vercel&theme=dark" alt="Dev Tools" />
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgZmlsbD0ibm9uZSI+PHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iOCIgZmlsbD0iIzIxMjYyZCIvPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEyLDEyKSI+PHBhdGggZmlsbD0iI0Y0QUE0MSIgZD0iTTkuMzk0IDkuNTgzcy0uNzQyLjUxMS0xLjEzLjI3NWMtLjM4Ny0uMjM2LS41MS0uNzQyLS4yNzQtMS4xMjkuMjM2LS4zODguNzQyLS41MTEgMS4xMjktLjI3NS4zODguMjM2LjI3NSAxLjEyOS4yNzUgMS4xMjltMS40OCAzLjI0NS0uMzA4LjgyLjU4Mi4yNGMuMDQtLjIyNC4yNTQtLjM3Mi40NzctLjMzMi4yMjQuMDQxLjM3Mi4yNTQuMzMyLjQ3OC0uMDkzLjUxNS0uNjM4LjgxMy0xLjEyMi42MTNsLS45NS0uMzkxYS40MS40MSAwIDAgMS0uMjI4LS41MjRsLjQ0OC0xLjE5M2MuMTItLjMyLjQyNi0uNTMzLjc2OS0uNTMzaDIuNTI1bC4yMzkuMDM2Yy4wNzYuMDIzLjE0OC4wNTcuMjE0LjEwMWEuODE3LjgxNyAwIDAgMSAuMzAzLjM2M2wuNDc2IDEuMTJjLjA4My4xOTcuMDAyLjQyNS0uMTg3LjUyNGwtLjg5Ni40NzFjLS41MDUuMjY2LTEuMTIxLS4wNTMtMS4xOTYtLjYyYS40MTEuNDExIDAgMCAxIC4zNTMtLjQ2MS40MTEuNDExIDAgMCAxIC40NjEuMzUzbC41Ni0uMjk0LS4zMjctLjc3MXpNOS4zNTMgMTcuOThjLS45NTktLjUxNC0yLjE4My0xLjU0LTEuOTYxLTMuMjIuMDI5LS4yMjUuMjM2LS4zODMuNDYxLS4zNTQuMjI1LjAzLjM4My4yMzYuMzUzLjQ2MS0uMTY3IDEuMjcyLjgyMiAyLjAwOSAxLjU0NiAyLjM5NS4zNDguMTg1Ljc3MS4xNTEgMS4wODEtLjA5MmwuOTAzLS43MDh2LTEuMDQ1YzAtLjIyNi4xODQtLjQxLjQxMS0uNDFzLjQxMS4xODQuNDExLjQxdjEuMDQ1bC45MDMuNzA4Yy4xOS4xNS40MjMuMjIuNjU1LjIwOWEuNDUuNDUgMCAwIDEgLjA3NC0uMDE5LjQyLjQyIDAgMCAxIC4wOTMtLjAwM2MuMDg5LS4wMi4xNzYtLjA1MS4yNTktLjA5NS43MjQtLjM4NiAxLjcxMy0xLjEyMyAxLjU0Ni0yLjM5NWEuNDExLjQxMSAwIDAgMSAuMzUzLS40NjFjLjIyNS0uMDI5LjQzMi4xMjkuNDYxLjM1NC4yMjMgMS42ODgtMS4wMTMgMi43MTYtMS45NzQgMy4yMjctLjA3Mi4wMzgtLjE0NS4wNzEtLjIyLjA5OS4xNDggMS40MjQtLjE0IDIuNTYyLS40NDkgMy4yNC0uMTY5LjM3LS4zNTUuNjE3LS40OS43MzItLjE5NC4xNjctLjUxNy4zMDUtLjkzMy4zNjYtLjUzMS4wNzgtMS4yMjcuMDM5LTEuOTQ1LS4xODItLjU3Ni0uMTc3LS45NzMtLjY4Ni0xLjIwOC0xLjM0My0uMzYyLTEuMDA5LS4zNTItMi4zNjgtLjMzLTIuOTE5bTQuNTQuMjEzYTEuODEgMS44MSAwIDAgMS0uOTM5LS4zNzZsLS44MDctLjYzMy0uODA3LjYzM2MtLjM0MS4yNjgtLjc1OC4zOTctMS4xNzMuMzg0LS4wMTIuNDUzLS4wMDEgMS4yMTkuMTUgMS45MjIuMDcyLjMzMy4xNzQuNjUyLjMyOS45MDguMTIyLjIuMjc1LjM2MS40ODYuNDI1LjU4Ni4xOCAxLjE1Mi4yMTggMS41ODUuMTU1LjIyNy0uMDMzLjQxMi0uMDg2LjUxOC0uMTc2LjExNS0uMDk5LjI1OS0uMzYzLjM5NS0uNzQ0LjIxMy0uNTk3LjM2Ny0xLjQ2LjI2My0yLjQ5OG0tOC42ODMtLjk1NS0uMTkxLjQwMmMtLjM4NC44MS0xLjQ3NS45NTUtMi4wNTMuMjctLjgxLS45NjEtMS45NDgtMi41MDUtMi41NDgtNC4wNjgtLjQyNy0xLjExNS0uNTc2LTIuMjQxLS4yMTMtMy4xOThDMi44OTQgMy41NTkgNi4yNDcgMi45NjkgNi45OCAyLjkyOGMxLjM0LS44NjUgNS41ODMtMi44MDcgMTAuNDI0LjM0Mi43OTUtLjA1MSA0LjA0Mi4yMDMgNi40MjQgNy4yNTIuMzI1Ljk2MS4xNjIgMi4wODEtLjI2MyAzLjE4Ni0uNTk5IDEuNTU3LTEuNzA5IDMuMDg4LTIuNSA0LjA0Ni0uNTc0LjY5NS0xLjY3NS41NTMtMi4wNjEtLjI2MmwtLjEzMy0uMjhjLS4yMTkuMzY5LS41MjQuODMyLS45MDEgMS4yODEtLjU3LjY3OS0xLjMwNiAxLjMyLTIuMTU0IDEuNTk4YS40MTIuNDEyIDAgMCAxLS41MTktLjI2My40MTE0LjQxMTQgMCAwIDEgLjI2My0uNTE4Yy43MDUtLjIzMSAxLjMwNi0uNzggMS43ODEtMS4zNDUuNTU2LS42NjIuOTM4LTEuMzU1IDEuMDk3LTEuNjY2bC0uMjQ1LS41MThjLS4xMjYtLjI2NC0uMTU0LS41Ni0uMDc4LS44NDIuMjQ2LS45MjQuOTgxLTQuMDE1LjA3MS02LjA0M2EuNDEwNS40MTA1IDAgMSAxIC43NDktLjMzNmMuOTkzIDIuMjEyLjI0MyA1LjU4My0uMDI2IDYuNTkxYS40MDUuNDA1IDAgMCAwIC4wMjYuMjc4bC44MTEgMS43MTJjLjEyOS4yNy40OTQuMzIuNjg1LjA4OS43NDgtLjkwNCAxLjgwMS0yLjM0NiAyLjM2Ny0zLjgxNy4zNTEtLjkxMi41Mi0xLjgzNC4yNTItMi42MjgtMi40NDctNy4yNDEtNS42NjctNi42ODctNS42NjctNi42ODdhLjQxNi40MTYgMCAwIDEtLjMwOS0uMDYxQzEyLjQ4Ljk3MiA4LjQ1NiAyLjkxNyA3LjMzOSAzLjY3NmEuNDEuNDEgMCAwIDEtLjI1Mi4wN1MzLjczOSAzLjY0OS45NzMgMTAuOTM1Yy0uMjk3Ljc4My0uMTM3IDEuNzAxLjIxMyAyLjYxMi41NjUgMS40NzUgMS42NDQgMi45MjcgMi40MDggMy44MzMuMTkyLjIyOC41NTUuMTc3LjY4My0uMDkybC44MTYtMS43MjNhLjQuNCAwIDAgMCAuMDI3LS4yNzhjLS4yNjktMS4wMDgtMS4wMi00LjM4LS4wMjctNi41OTJhLjQxMTMuNDExMyAwIDAgMSAuNTQzLS4yMDZjLjIwNy4wOTMuMy4zMzYuMjA3LjU0My0uOTExIDIuMDI4LS4xNzYgNS4xMTkuMDcxIDYuMDQzLjA3NS4yODIuMDQ3LjU3OC0uMDc4Ljg0MmwtLjIwMy40MjdjLjExNy4yMjYgMS4yNDkgMi4zNTEgMi45NTggMi45MTEuMjE2LjA3MS4zMzQuMzAzLjI2My41MTlhLjQxMTUuNDExNSAwIDAgMS0uNTE5LjI2MmMtMS40ODQtLjQ4Ny0yLjYwNi0xLjk4My0zLjEyNS0yLjc5OG0xMC4yNDctNy42NTVzLS4xMTQtLjg5My4yNzQtMS4xMjlhLjgyMS44MjEgMCAwIDEgMS4xMjkuMjc1Yy4yMzYuMzg3LjExMy44OTMtLjI3NCAxLjEyOS0uMzg4LjIzNi0xLjEyOS0uMjc1LTEuMTI5LS4yNzUiLz48L2c+PC9zdmc+" alt="Bruno" width="48" height="48" />
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgZmlsbD0ibm9uZSI+PHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iOCIgZmlsbD0iIzIxMjYyZCIvPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEyLDEyKSI+PHBhdGggZmlsbD0iIzU4NDlCRSIgZD0iTTEyLjEzNTYgMy40NTc3YzQuNzE3OSAwIDguNTQyNCAzLjgyNDUgOC41NDI0IDguNTQyNCAwIDQuNzE3OC0zLjgyNDUgOC41NDIzLTguNTQyNCA4LjU0MjMtNC43MTc4IDAtOC41NDIzLTMuODI0NS04LjU0MjMtOC41NDIzIDAtMS4xNTMuMjI4NC0yLjI1MjcuNjQyNS0zLjI1NjIuNjA0Ni44MjMzIDEuNTc5NiAxLjM1NzkgMi42Nzk1IDEuMzU3OSAxLjgzNDcgMCAzLjMyMi0xLjQ4NzQgMy4zMjItMy4zMjIxIDAtMS4wOTk5LS41MzQ1LTIuMDc0OS0xLjM1NzktMi42Nzk1IDEuMDAzNi0uNDE0IDIuMTAzMi0uNjQyNSAzLjI1NjItLjY0MjV6TTEyIDBDNS4zNzI2IDAgMCA1LjM3MjYgMCAxMnM1LjM3MjYgMTIgMTIgMTIgMTItNS4zNzI2IDEyLTEyUzE4LjYyNzQgMCAxMiAwWm0wIDEuMjIwM2M1Ljk1MzQgMCAxMC43Nzk3IDQuODI2MyAxMC43Nzk3IDEwLjc3OTdTMTcuOTUzNCAyMi43Nzk3IDEyIDIyLjc3OTcgMS4yMjAzIDE3Ljk1MzQgMS4yMjAzIDEyIDYuMDQ2NiAxLjIyMDMgMTIgMS4yMjAzWiIvPjwvZz48L3N2Zz4=" alt="Insomnia" width="48" height="48" />
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgZmlsbD0ibm9uZSI+PHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iOCIgZmlsbD0iIzIxMjYyZCIvPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEyLDEyKSI+PHBhdGggZmlsbD0iI0RFNUZFOSIgZD0ibTAgLjEwNTguMDUwNCAxMS45NDk2LjA0MDMgOS41NTk3Yy4wMDU1IDEuMzE5OSAxLjA4IDIuMzg1NCAyLjQgMi4zNzk4bDkuNTU5Ni0uMDQwMyA1Ljk3NDktLjAyNTIuNjA3NS0uMDAyNmMxLjMxNi0uMDA1NiAyLjM3OTktMS4wOTYzIDIuMzc5OS0yLjQxMjNoMS4wOTQ2djIuMzg5NEwyNCAyMy45MDQyIDIzLjg5OTIuMDA1IDEyLjkwNTYuMDUxM2wuMDQ2MyA5LjUyNDV2NS45NjM3aC0xLjk1ODNMMTEuMDQgOS41ODQgMTAuOTkzNi4wNTk0WiIvPjwvZz48L3N2Zz4=" alt="uv" width="48" height="48" />
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgZmlsbD0ibm9uZSI+PHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iOCIgZmlsbD0iIzIxMjYyZCIvPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEyLDEyKSI+PHBhdGggZmlsbD0iI0REMDAzMSIgZD0iTTE2LjcxMiAxNy43MTFINy4yODhsLTEuMjA0IDIuOTE2TDEyIDI0bDUuOTE2LTMuMzczLTEuMjA0LTIuOTE2Wk0xNC42OTIgMGw3LjgzMiAxNi44NTUuODE0LTEyLjg1NkwxNC42OTIgMFpNOS4zMDggMCAuNjYyIDMuOTk5bC44MTQgMTIuODU2TDkuMzA4IDBabS0uNDA1IDEzLjkzaDYuMTk4TDEyIDYuMzk2IDguOTAzIDEzLjkzWiIvPjwvZz48L3N2Zz4=" alt="Angular CLI" width="48" height="48" />
+<img src="icons/Bruno.svg" alt="Bruno" width="48" height="48" />
+<img src="icons/Insomnia.svg" alt="Insomnia" width="48" height="48" />
+<img src="icons/uv.svg" alt="uv" width="48" height="48" />
+<img src="icons/AngularCLI.svg" alt="Angular CLI" width="48" height="48" />
 
 **AI Models**
 
@@ -89,25 +89,25 @@
 
 ### Experience
 
-**Pantara Dev — Web Developer**
+**Pantara Dev â€” Web Developer**
 Building web applications with **Astro + Tailwind CSS**, deployed on **Vercel**, with a focus on application security and testing.
 
 ---
 
 ### Featured Projects
 
-**[PSDKU-WEB](https://github.com/Pantara-Dev/PSDKU-WEB)** — Academic information system & official portal of **Polinema PSDKU Lumajang** that I help build as a student contributor. Angular 18 + Spring Boot 3 + PostgreSQL, with JWT authentication, role-based access control, and an approval workflow for the Berita & Pengumuman modules.
+**[PSDKU-WEB](https://github.com/Pantara-Dev/PSDKU-WEB)** â€” Academic information system & official portal of **Polinema PSDKU Lumajang** that I help build as a student contributor. Angular 18 + Spring Boot 3 + PostgreSQL, with JWT authentication, role-based access control, and an approval workflow for the Berita & Pengumuman modules.
 
-**GitHub Coding Bot** *(In Progress)* — Automation experiment that generates code changes and pushes them straight to GitHub through a CI/CD pipeline.
+**GitHub Coding Bot** *(In Progress)* â€” Automation experiment that generates code changes and pushes them straight to GitHub through a CI/CD pipeline.
 
-**[Scratch Pacman](https://scratch.mit.edu/projects/1220861850)** — Classic Pacman game logic recreated in Scratch to build foundational algorithm principles.
+**[Scratch Pacman](https://scratch.mit.edu/projects/1220861850)** â€” Classic Pacman game logic recreated in Scratch to build foundational algorithm principles.
 
 <details>
-<summary><b>More projects — practicum series & coursework</b></summary>
+<summary><b>More projects â€” practicum series & coursework</b></summary>
 <br>
 
 **Full-Stack**
-[Integrasi Angular + Spring Boot](https://github.com/ahmadhabiburohman83-bit/Integrasi-Angular-Spring-Boot) — Full-stack app connecting an Angular frontend to a Spring Boot REST API backend
+[Integrasi Angular + Spring Boot](https://github.com/ahmadhabiburohman83-bit/Integrasi-Angular-Spring-Boot) â€” Full-stack app connecting an Angular frontend to a Spring Boot REST API backend
 
 **Angular Practicum Series**
 [Component Communication](https://github.com/ahmadhabiburohman83-bit/Praktikum_Angular_Component_Communication.)
@@ -117,9 +117,9 @@ Building web applications with **Astro + Tailwind CSS**, deployed on **Vercel**,
 [Routing + RxJS Lanjutan](https://github.com/ahmadhabiburohman83-bit/Modul_Angular_Routing_RxJS_Lanjutan)
 
 **Web Projects**
-[my-website](https://github.com/ahmadhabiburohman83-bit/my-website) — Personal portfolio site
-[website_K3](https://github.com/ahmadhabiburohman83-bit/website_K3) — Occupational safety (K3) coursework site
-[finalwebk3kelompok_6](https://github.com/ahmadhabiburohman83-bit/finalwebk3kelompok_6) — Group capstone for the same K3 course
+[my-website](https://github.com/ahmadhabiburohman83-bit/my-website) â€” Personal portfolio site
+[website_K3](https://github.com/ahmadhabiburohman83-bit/website_K3) â€” Occupational safety (K3) coursework site
+[finalwebk3kelompok_6](https://github.com/ahmadhabiburohman83-bit/finalwebk3kelompok_6) â€” Group capstone for the same K3 course
 
 </details>
 
