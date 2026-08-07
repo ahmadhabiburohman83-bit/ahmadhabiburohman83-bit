@@ -40,21 +40,24 @@
 
 **Languages**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,js,py,cpp&theme=dark" alt="Languages" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,ts,js,py,cpp&theme=dark" alt="Languages" />
 
 **Frontend & Backend**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,spring,postgres,mysql&theme=dark" alt="Frontend & Backend" />
-</p>
+<img src="https://skillicons.dev/icons?i=angular,react,spring,postgres,mysql&theme=dark" alt="Frontend & Backend" />
 
 **Exploring**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,rust,githubactions&theme=dark" alt="Exploring" />
-</p>
+<img src="https://skillicons.dev/icons?i=go,rust,githubactions&theme=dark" alt="Exploring" />
+
+**Dev Tools**
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,nodejs,vercel&theme=dark" alt="Dev Tools" />
+
+![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=flat-square&logo=bruno&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white)
+![Angular CLI](https://img.shields.io/badge/Angular_CLI-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 **AI Models**
 
@@ -81,19 +84,6 @@
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claudecode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![OmniRouter](https://img.shields.io/badge/OmniRouter-0B1B2B?style=flat-square&logoColor=white)
-
-**Dev Tools**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,nodejs,vercel&theme=dark" alt="Dev Tools" />
-</p>
-
-<p align="center">
-![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=flat-square&logo=bruno&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
-![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white)
-![Angular CLI](https://img.shields.io/badge/Angular_CLI-DD0031?style=flat-square&logo=angular&logoColor=white)
-</p>
 
 ---
 
