@@ -22,9 +22,9 @@
 
 ### About Me
 
-**Role:** Student & Full-Stack Web Developer
+**Role:** Student at **Polinema PSDKU Lumajang** & Full-Stack Web Developer
 
-**Building:** An automation bot that writes code and pushes commits via CI/CD
+**Building:** [PSDKU-WEB](https://github.com/Pantara-Dev/PSDKU-WEB) — the academic portal & information system of Polinema PSDKU Lumajang
 
 **Learning:** CI/CD pipelines with GitHub Actions
 
@@ -105,6 +105,8 @@ Building web applications with **Astro + Tailwind CSS**, deployed on **Vercel**,
 ---
 
 ### Featured Projects
+
+**[PSDKU-WEB](https://github.com/Pantara-Dev/PSDKU-WEB)** — Academic information system & official portal of **Polinema PSDKU Lumajang** that I help build as a student contributor. Angular 18 + Spring Boot 3 + PostgreSQL, with JWT authentication, role-based access control, and an approval workflow for the Berita & Pengumuman modules.
 
 **[Integrasi Angular + Spring Boot](https://github.com/ahmadhabiburohman83-bit/Integrasi-Angular-Spring-Boot)** — Full-stack app connecting an Angular frontend to a Spring Boot REST API backend.
 
