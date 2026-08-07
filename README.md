@@ -68,10 +68,7 @@
 ![Qwen](https://img.shields.io/badge/Qwen-6950EF?style=flat-square&logo=qwen&logoColor=white)
 ![GLM](https://img.shields.io/badge/GLM-0084FF?style=flat-square&logo=zdotai&logoColor=white)
 ![Kimi](https://img.shields.io/badge/Kimi-6100FF?style=flat-square&logo=kimi&logoColor=white)
-
-<p align="right">
-  <img src="https://img.shields.io/badge/Grok-000000?style=flat-square&logoColor=white" alt="Grok" />
-</p>
+![Grok](https://img.shields.io/badge/Grok-000000?style=flat-square&logoColor=white)
 
 **AI Agents & Tools**
 
@@ -84,12 +81,9 @@
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BCjxwYXRoIGQ9Ik04NS4yODQzIDg4LjAzMDFDOTAuMTMyOSA5MS42NjY0IDk3LjQwNTcgODkuMjQyMiA5MC43Mzg5IDgyLjU3NTVDNzAuNzM4OSA2My4xODE2IDc0Ljk4MTMgOS44NDgyNyA1MC4xMzI5IDkuODQ4MjdDMjUuMjg0MyA5Ljg0ODI3IDI5LjUyNjcgNjMuMTgxNiA5LjUyNjczIDgyLjU3NTVDMi4yNTQwMiA4OS44NDgzIDEwLjEzMjggOTEuNjY2NCAxNC45ODEzIDg4LjAzMDFDMzMuNzY5MiA3NS4zMDI4IDMyLjU1NzEgNTIuODc4NiA1MC4xMzI5IDUyLjg3ODZDNjcuNzA4NiA1Mi44Nzg2IDY2LjQ5NjUgNzUuMzAyOCA4NS4yODQzIDg4LjAzMDFaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claudecode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-
-<p align="right">
-  <img src="https://img.shields.io/badge/9Router-1B1F24?style=flat-square&logoColor=white" alt="9Router" />
-  <img src="https://img.shields.io/badge/%E2%98%A4_Hermes-7C3AED?style=flat-square&logoColor=white" alt="Hermes" />
-  <img src="https://img.shields.io/badge/OmniRouter-0B1B2B?style=flat-square&logoColor=white" alt="OmniRouter" />
-</p>
+![9Router](https://img.shields.io/badge/9Router-1B1F24?style=flat-square&logoColor=white)
+![Hermes](https://img.shields.io/badge/%E2%98%A4_Hermes-7C3AED?style=flat-square&logoColor=white)
+![OmniRouter](https://img.shields.io/badge/OmniRouter-0B1B2B?style=flat-square&logoColor=white)
 
 ---
 
