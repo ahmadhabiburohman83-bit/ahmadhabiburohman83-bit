@@ -69,6 +69,10 @@
 ![GLM](https://img.shields.io/badge/GLM-0084FF?style=flat-square&logo=zdotai&logoColor=white)
 ![Kimi](https://img.shields.io/badge/Kimi-6100FF?style=flat-square&logo=kimi&logoColor=white)
 
+<p align="right">
+  <img src="https://img.shields.io/badge/Grok-000000?style=flat-square&logoColor=white" alt="Grok" />
+</p>
+
 **AI Agents & Tools**
 
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-301960?style=flat-square&logo=openrouter&logoColor=white)
@@ -81,12 +85,11 @@
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claudecode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
-**Text-Only Badges**
-
-![9Router](https://img.shields.io/badge/9Router-1B1F24?style=flat-square&logoColor=white)
-![Grok](https://img.shields.io/badge/Grok-000000?style=flat-square&logoColor=white)
-![Hermes](https://img.shields.io/badge/%E2%98%A4_Hermes-7C3AED?style=flat-square&logoColor=white)
-![OmniRouter](https://img.shields.io/badge/OmniRouter-0B1B2B?style=flat-square&logoColor=white)
+<p align="right">
+  <img src="https://img.shields.io/badge/9Router-1B1F24?style=flat-square&logoColor=white" alt="9Router" />
+  <img src="https://img.shields.io/badge/%E2%98%A4_Hermes-7C3AED?style=flat-square&logoColor=white" alt="Hermes" />
+  <img src="https://img.shields.io/badge/OmniRouter-0B1B2B?style=flat-square&logoColor=white" alt="OmniRouter" />
+</p>
 
 ---
 
