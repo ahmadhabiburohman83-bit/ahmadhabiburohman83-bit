@@ -1,8 +1,8 @@
-﻿<img src="header.svg" width="100%" alt="Header" />
+<img src="header.svg" width="100%" alt="Header" />
 
 <div align="center">
 
-  <p><b>Student & Full-Stack Web Developer</b> â€” building web apps with Angular + Spring Boot</p>
+  <p><b>Student & Full-Stack Web Developer</b> — building web apps with Angular + Spring Boot</p>
 
   <a href="https://instagram.com/nopartyx_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -24,9 +24,9 @@
 
 **Role:** Student at **Polinema PSDKU Lumajang** & Full-Stack Web Developer
 
-**Building:** [GitHub Coding Bot](https://github.com/ahmadhabiburohman83-bit) *(In Progress)* â€” an automation experiment that generates code changes and pushes them straight to GitHub through a CI/CD pipeline.
+**Building:** [GitHub Coding Bot](https://github.com/ahmadhabiburohman83-bit) *(In Progress)* — an automation experiment that generates code changes and pushes them straight to GitHub through a CI/CD pipeline.
 
-**Contributing:** [PSDKU-WEB](https://github.com/Pantara-Dev/PSDKU-WEB) â€” part contributor to the academic portal & information system of Polinema PSDKU Lumajang.
+**Contributing:** [PSDKU-WEB](https://github.com/Pantara-Dev/PSDKU-WEB) — part contributor to the academic portal & information system of Polinema PSDKU Lumajang.
 
 **Learning:** CI/CD pipelines with GitHub Actions
 
@@ -89,25 +89,25 @@
 
 ### Experience
 
-**Pantara Dev â€” Web Developer**
+**Pantara Dev — Web Developer**
 Building web applications with **Astro + Tailwind CSS**, deployed on **Vercel**, with a focus on application security and testing.
 
 ---
 
 ### Featured Projects
 
-**[PSDKU-WEB](https://github.com/Pantara-Dev/PSDKU-WEB)** â€” Academic information system & official portal of **Polinema PSDKU Lumajang** that I help build as a student contributor. Angular 18 + Spring Boot 3 + PostgreSQL, with JWT authentication, role-based access control, and an approval workflow for the Berita & Pengumuman modules.
+**[PSDKU-WEB](https://github.com/Pantara-Dev/PSDKU-WEB)** — Academic information system & official portal of **Polinema PSDKU Lumajang** that I help build as a student contributor. Angular 18 + Spring Boot 3 + PostgreSQL, with JWT authentication, role-based access control, and an approval workflow for the Berita & Pengumuman modules.
 
-**GitHub Coding Bot** *(In Progress)* â€” Automation experiment that generates code changes and pushes them straight to GitHub through a CI/CD pipeline.
+**GitHub Coding Bot** *(In Progress)* — Automation experiment that generates code changes and pushes them straight to GitHub through a CI/CD pipeline.
 
-**[Scratch Pacman](https://scratch.mit.edu/projects/1220861850)** â€” Classic Pacman game logic recreated in Scratch to build foundational algorithm principles.
+**[Scratch Pacman](https://scratch.mit.edu/projects/1220861850)** — Classic Pacman game logic recreated in Scratch to build foundational algorithm principles.
 
 <details>
-<summary><b>More projects â€” practicum series & coursework</b></summary>
+<summary><b>More projects — practicum series & coursework</b></summary>
 <br>
 
 **Full-Stack**
-[Integrasi Angular + Spring Boot](https://github.com/ahmadhabiburohman83-bit/Integrasi-Angular-Spring-Boot) â€” Full-stack app connecting an Angular frontend to a Spring Boot REST API backend
+[Integrasi Angular + Spring Boot](https://github.com/ahmadhabiburohman83-bit/Integrasi-Angular-Spring-Boot) — Full-stack app connecting an Angular frontend to a Spring Boot REST API backend
 
 **Angular Practicum Series**
 [Component Communication](https://github.com/ahmadhabiburohman83-bit/Praktikum_Angular_Component_Communication.)
@@ -117,9 +117,9 @@ Building web applications with **Astro + Tailwind CSS**, deployed on **Vercel**,
 [Routing + RxJS Lanjutan](https://github.com/ahmadhabiburohman83-bit/Modul_Angular_Routing_RxJS_Lanjutan)
 
 **Web Projects**
-[my-website](https://github.com/ahmadhabiburohman83-bit/my-website) â€” Personal portfolio site
-[website_K3](https://github.com/ahmadhabiburohman83-bit/website_K3) â€” Occupational safety (K3) coursework site
-[finalwebk3kelompok_6](https://github.com/ahmadhabiburohman83-bit/finalwebk3kelompok_6) â€” Group capstone for the same K3 course
+[my-website](https://github.com/ahmadhabiburohman83-bit/my-website) — Personal portfolio site
+[website_K3](https://github.com/ahmadhabiburohman83-bit/website_K3) — Occupational safety (K3) coursework site
+[finalwebk3kelompok_6](https://github.com/ahmadhabiburohman83-bit/finalwebk3kelompok_6) — Group capstone for the same K3 course
 
 </details>
 
