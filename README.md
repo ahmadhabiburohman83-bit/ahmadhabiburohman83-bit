@@ -129,8 +129,8 @@ Building web applications with **Astro + Tailwind CSS**, deployed on **Vercel**,
 
 <div align="center">
 
-  <img src="https://github-readme-stats-lilac-psi-29.vercel.app/api?username=ahmadhabiburohman83-bit&show_icons=true&theme=tokyonight&border_radius=8" width="48%" />
   <img src="https://github-readme-stats-lilac-psi-29.vercel.app/api/top-langs/?username=ahmadhabiburohman83-bit&layout=compact&theme=tokyonight&border_radius=8" width="48%" />
+  <img src="https://github-readme-stats-lilac-psi-29.vercel.app/api?username=ahmadhabiburohman83-bit&show_icons=true&theme=tokyonight&border_radius=8" width="48%" />
 
   <br><br>
 
