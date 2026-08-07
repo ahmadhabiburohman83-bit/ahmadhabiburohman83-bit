@@ -24,7 +24,7 @@
 
 **Role:** Student at **Polinema PSDKU Lumajang** & Full-Stack Web Developer
 
-**Building:** [PSDKU-WEB](https://github.com/Pantara-Dev/PSDKU-WEB) — the academic portal & information system of Polinema PSDKU Lumajang
+**Building:** [PSDKU-WEB](https://github.com/Pantara-Dev/PSDKU-WEB) — the academic portal & information system of Polinema PSDKU Lumajang, plus [GitHub Coding Bot](https://github.com/ahmadhabiburohman83-bit) *(In Progress)* — an automation experiment that generates code changes and pushes them straight to GitHub through a CI/CD pipeline.
 
 **Learning:** CI/CD pipelines with GitHub Actions
 
@@ -108,8 +108,6 @@ Building web applications with **Astro + Tailwind CSS**, deployed on **Vercel**,
 
 **[PSDKU-WEB](https://github.com/Pantara-Dev/PSDKU-WEB)** — Academic information system & official portal of **Polinema PSDKU Lumajang** that I help build as a student contributor. Angular 18 + Spring Boot 3 + PostgreSQL, with JWT authentication, role-based access control, and an approval workflow for the Berita & Pengumuman modules.
 
-**[Integrasi Angular + Spring Boot](https://github.com/ahmadhabiburohman83-bit/Integrasi-Angular-Spring-Boot)** — Full-stack app connecting an Angular frontend to a Spring Boot REST API backend.
-
 **GitHub Coding Bot** *(In Progress)* — Automation experiment that generates code changes and pushes them straight to GitHub through a CI/CD pipeline.
 
 **[Scratch Pacman](https://scratch.mit.edu/projects/1220861850)** — Classic Pacman game logic recreated in Scratch to build foundational algorithm principles.
@@ -117,6 +115,9 @@ Building web applications with **Astro + Tailwind CSS**, deployed on **Vercel**,
 <details>
 <summary><b>More projects — practicum series & coursework</b></summary>
 <br>
+
+**Full-Stack**
+[Integrasi Angular + Spring Boot](https://github.com/ahmadhabiburohman83-bit/Integrasi-Angular-Spring-Boot) — Full-stack app connecting an Angular frontend to a Spring Boot REST API backend
 
 **Angular Practicum Series**
 [Component Communication](https://github.com/ahmadhabiburohman83-bit/Praktikum_Angular_Component_Communication.)
