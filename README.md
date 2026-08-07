@@ -54,7 +54,7 @@
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,nodejs,vercel&theme=dark" alt="Dev Tools" />
 
-<img src="icons/devtools.svg" alt="Dev Tools" width="192" height="48" />
+<img src="icons/devtools-strip.svg" alt="Dev Tools" width="192" height="48" />
 
 **AI Models**
 
