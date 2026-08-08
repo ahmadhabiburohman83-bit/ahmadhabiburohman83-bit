@@ -24,7 +24,7 @@
 
 **Role:** Student at **Polinema PSDKU Lumajang** & Full-Stack Web Developer
 
-**Building:** [GitHub Coding Bot](https://github.com/ahmadhabiburohman83-bit) *(In Progress)* — an automation experiment that generates code changes and pushes them straight to GitHub through a CI/CD pipeline.
+**Building:** [GitHub Coding Bot](https://github.com/ahmadhabiburohman83-bit) *(In Progress)* — Automation experiment that sets up rules & conventions for my AI coding agents so they generate code changes that match my workflow and push them straight to GitHub through a CI/CD pipeline.
 
 **Contributing:** [PSDKU-WEB](https://github.com/Pantara-Dev/PSDKU-WEB) — part contributor to the academic portal & information system of Polinema PSDKU Lumajang.
 
@@ -95,7 +95,7 @@ Building web applications with **Astro + Tailwind CSS**, deployed on **Vercel**,
 
 **[PSDKU-WEB](https://github.com/Pantara-Dev/PSDKU-WEB)** — Academic information system & official portal of **Polinema PSDKU Lumajang** that I help build as a student contributor. Angular 18 + Spring Boot 3 + PostgreSQL, with JWT authentication, role-based access control, and an approval workflow for the Berita & Pengumuman modules.
 
-**GitHub Coding Bot** *(In Progress)* — Automation experiment that generates code changes and pushes them straight to GitHub through a CI/CD pipeline.
+**GitHub Coding Bot** *(In Progress)* — Automation experiment that sets up rules & conventions for my AI coding agents so they generate code changes that match my workflow and push them straight to GitHub through a CI/CD pipeline.
 
 **[Scratch Pacman](https://scratch.mit.edu/projects/1220861850)** — Classic Pacman game logic recreated in Scratch to build foundational algorithm principles.
 
