@@ -32,7 +32,7 @@
 
 **Next Up:** Exploring Go and Rust
 
-**Fun Fact:** [Pacman](https://scratch.mit.edu/projects/1220861850) - Built a working Pacman clone in Scratch
+**Fun Fact:** [Pacman](https://scratch.mit.edu/projects/1220861850) — Built a working Pacman clone in Scratch
 
 ---
 
