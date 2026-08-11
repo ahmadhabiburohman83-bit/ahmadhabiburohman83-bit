@@ -93,7 +93,7 @@ Building web applications with **Astro + Tailwind CSS**, deployed on **Vercel**,
 
 ### Featured Projects
 
-**[PSDKU-WEB](https://github.com/Pantara-Dev/PSDKU-WEB)** — Academic information system & official portal of **Polinema PSDKU Lumajang** that I help build as a student contributor. Angular 18 + Spring Boot 3 + PostgreSQL, with JWT authentication, role-based access control, and an approval workflow for the Berita & Pengumuman modules.
+**[PSDKU-WEB](http://psdkulumajang.polinema.ac.id)** — Academic information system & official portal of **Polinema PSDKU Lumajang** that I help build as a student contributor. Angular 18 + Spring Boot 3 + PostgreSQL, with JWT authentication, role-based access control, and an approval workflow for the Berita & Pengumuman modules.
 
 **GitHub Coding Bot** *(In Progress)* — Automation experiment that sets up rules & conventions for my AI coding agents so they generate code changes that match my workflow and push them straight to GitHub through a CI/CD pipeline.
 
