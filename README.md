@@ -26,7 +26,7 @@
 
 **Building:** [GitHub Coding Bot](https://github.com/ahmadhabiburohman83-bit) *(In Progress)* — Automation experiment that sets up rules & conventions for my AI coding agents so they generate code changes that match my workflow and push them straight to GitHub through a CI/CD pipeline.
 
-**Contributing:** [PSDKU-WEB](https://github.com/Pantara-Dev/PSDKU-WEB) — part contributor to the academic portal & information system of Polinema PSDKU Lumajang.
+**Contributing:** [PSDKU-WEB](http://psdkulumajang.polinema.ac.id) — part contributor to the academic portal & information system of Polinema PSDKU Lumajang.
 
 **Learning:** CI/CD pipelines with GitHub Actions
 
