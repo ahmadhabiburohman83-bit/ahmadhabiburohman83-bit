@@ -131,6 +131,6 @@ Building web applications with **Astro + Tailwind CSS**, deployed on **Vercel**,
 
   <br><br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadhabiburohman83-bit&theme=tokyonight&disable_animations=true&border_radius=8" width="97%" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" width="97%" />
 
 </div>
