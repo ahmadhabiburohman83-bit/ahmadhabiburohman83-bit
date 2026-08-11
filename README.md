@@ -93,11 +93,11 @@ Building web applications with **Astro + Tailwind CSS**, deployed on **Vercel**,
 
 ### Featured Projects
 
-**[PSDKU-WEB](http://psdkulumajang.polinema.ac.id)** — Academic information system & official portal of **Polinema PSDKU Lumajang** that I help build as a student contributor. Angular 18 + Spring Boot 3 + PostgreSQL, with JWT authentication, role-based access control, and an approval workflow for the Berita & Pengumuman modules.
+**[PSDKU-WEB](http://psdkulumajang.polinema.ac.id)** — Academic information system & official portal of **Polinema PSDKU Lumajang** that I help build as a student contributor. Built with Angular 18, Spring Boot 3, and PostgreSQL, featuring JWT authentication, role-based access control, and approval workflows for the Berita & Pengumuman modules.
 
-**GitHub Coding Bot** *(In Progress)* — Automation experiment that sets up rules & conventions for my AI coding agents so they generate code changes that match my workflow and push them straight to GitHub through a CI/CD pipeline.
+**GitHub Coding Bot** *(In Progress)* — An automation experiment that defines rules & conventions for my AI coding agents, enabling them to generate code changes that follow my workflow and push them directly to GitHub through a CI/CD pipeline.
 
-**[Scratch Pacman](https://scratch.mit.edu/projects/1220861850)** — Classic Pacman game logic recreated in Scratch to build foundational algorithm principles.
+**[Scratch Pacman](https://scratch.mit.edu/projects/1220861850)** — A classic Pac-Man game recreated in Scratch to practice foundational algorithmic principles, including game logic, conditions, loops, and state management.
 
 <details>
 <summary><b>More projects — practicum series & coursework</b></summary>
